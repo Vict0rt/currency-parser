@@ -1,2 +1,10 @@
-<h1>Currency parser</h1>
-<p>This program for parsing actual currency exchange.</p>
+<h1>Project Description</h1>
+    <p>This program involves parsing two types of data:</p>
+    <ol>
+        <li>
+            <strong>Currency Exchange.</strong>
+        </li>
+        <li>
+            <strong>Top Material from itc.ua.</strong>
+        </li>
+    </ol>
